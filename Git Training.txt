@@ -1,0 +1,2 @@
+This is my git training document
+This is second line
